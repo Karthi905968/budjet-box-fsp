@@ -1,4 +1,4 @@
-# techis-wd-sample-budget-box
+# Budget-box
 ```
 Budget Box App, with a frontend built in React & Redux and a backend built in Django API.
 ```
